@@ -22,3 +22,17 @@ Important:
 - Review each script before running. Use them as a guide, not as an automatic "fix everything" tool.
 
 Good luck!
+
+sadservers-troubleshooting/
+│
+├── saint-john.md
+├── command-line-murders.md
+├── manhattan.md
+├── jakarta.md
+│
+├── scripts/
+│   ├── system_diagnose.sh
+│   ├── webserver_fix.sh
+│   └── kill_high_cpu.sh
+│
+└── README.md
