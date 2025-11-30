@@ -1,0 +1,10 @@
+SadServers Quick Checklist
+- Start scre.io recording with camera ON and mic working.
+- Open all 4 scenario pages:
+  * /scenario/saint-john
+  * /scenario/command-line-murders
+  * /scenario/manhattan
+  * /scenario/jakarta
+- Use the provided shell scripts as a guide.
+- Show failing output first, then apply fixes and show success checks.
+- Upload final recording to Google Drive, set link to 'Anyone with the link', paste into form fields.
