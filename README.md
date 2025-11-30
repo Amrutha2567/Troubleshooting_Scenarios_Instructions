@@ -36,3 +36,17 @@ sadservers-troubleshooting/
 │   └── kill_high_cpu.sh
 │
 └── README.md
+
+
+
+Solve the following four scenarios:
+
+Saint John: https://sadservers.com/scenario/saint-john
+
+Command Line Murders: https://sadservers.com/scenario/command-line-murders
+
+Manhattan: https://sadservers.com/scenario/manhattan
+
+Jakarta: https://sadservers.com/scenario/jakarta
+
+Once all scenarios are completed, upload the full recording to Google Dri
